@@ -4,10 +4,7 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "env": {
-    "NEXT_PUBLIC_API_URL": {
-      "description": "Backend API URL",
-      "default": "https://the-arena-api.fly.dev"
-    }
+    "NEXT_PUBLIC_API_URL": "https://the-arena-api.railway.app"
   },
   "headers": [
     {
